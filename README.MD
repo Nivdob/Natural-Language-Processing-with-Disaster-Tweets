@@ -1,7 +1,10 @@
 # Disaster Tweets Classification
 By: Niv Dobzinski (PhD)
 
-This repository contains a complete solution for the Kaggle competition "Disaster Tweets Classification" using the RoBERTa transformer model with Low-Rank Adaptation (LoRA). The solution includes data preprocessing, model training, evaluation, and submission preparation.
+This repository contains a complete solution for the Kaggle competition "Disaster Tweets Classification" using the RoBERTa transformer model with Low-Rank Adaptation (LoRA). 
+
+### The Challenge
+ real-time updates from individuals. However, distinguishing between metaphorical and literal tweets is challenging. In this competition, participants were challenged to build a machine learning model to predict which tweets were about real disasters using a dataset of 10,000 hand-classified tweets. The task was to identify real disaster tweets.
 
 ## Key Steps in the Process:
 
